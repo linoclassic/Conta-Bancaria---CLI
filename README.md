@@ -1,1 +1,2 @@
-Projeto de uma conta bancaria simples no console utilizando alguns conceitos da POO (encapsulamento, sobreposição, métodos, propriedades/atributos e entre outros).
+
+Conta bancaria simples onde primeiro o usuário deve escolher entre depositar um valor inicial ou não, depois depositar um valor e depois sacar algum valor.
